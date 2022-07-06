@@ -1,0 +1,24 @@
+{
+  "name": "challange_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gameTs.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "tsc gameTs.ts && node gameTs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IremUlusoy/challange_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IremUlusoy/challange_2/issues"
+  },
+  "homepage": "https://github.com/IremUlusoy/challange_2#readme"
+}
